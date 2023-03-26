@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Main from "@/components/main";
+import Main from "@/components/Main";
 import { useAccount } from "wagmi";
 
 export default function Home() {
